@@ -1,0 +1,27 @@
+.hero-container {
+
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.hero-container div div img {
+    padding: 10px;
+    width: 100%;
+    border: 2px solid rgb(210, 210, 210);
+    border-radius: 10px;
+}
+
+.lore-holder {
+    padding: 10px;
+    margin: 10px;
+}
+
+.cards-container div div img {
+    width: 100%;
+}
+
+.index-holder {
+    margin: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}

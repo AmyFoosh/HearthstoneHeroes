@@ -1,0 +1,25 @@
+.heroes-container{
+    padding-top: 120px;
+    padding-bottom: 40px;
+    background-color: rgb(250, 250, 250);
+}
+
+.heroes-meet-title {
+    padding-bottom: 40px;
+}
+
+.btn-heroes-card {
+    margin: 4px;
+}
+
+.card-heroes {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.hero-holder {
+    margin: 8px;
+}
+
+.icon-heroes-card {
+    width: 60px;
+}

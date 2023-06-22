@@ -1,0 +1,45 @@
+/*Enable Nav Bar to be always on the top of the screen */
+.nav-holder {
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+    background-color: rgb(130, 160, 160);
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.nav-item:hover {
+    background-color: rgba(130, 160, 160, 1);
+    border-radius: 10px;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+}
+
+.dropdown-item img {
+    width: 40px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li a {
+    color: black;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}

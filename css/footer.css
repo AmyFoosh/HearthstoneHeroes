@@ -1,0 +1,19 @@
+footer {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: rgb(130, 160, 160);
+}
+
+.social-media-links-footer a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.social-media-links-footer p {
+    color: white;
+}
+
+footer div a {
+    color: white;
+}
